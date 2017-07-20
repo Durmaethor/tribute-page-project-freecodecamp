@@ -1,0 +1,37 @@
+body {
+  margin-top: 50px;
+}
+
+.jumbotron {
+  background-color: #DE2C32;
+}
+
+h1 {
+  font-family: 'Faster One', cursive;
+  font-size: 75px;
+  color: #fff;
+}
+
+h2 {
+  margin-bottom: 50px;
+}
+
+h3 {
+  margin-top: 50px;
+}
+
+.container2 {
+  position: relative;
+  width: 80%;
+  margin: 20px auto;
+}
+
+blockquote {
+  margin: 50px 5px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  color: blue;
+}
+
+
